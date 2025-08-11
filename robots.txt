@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://CAIRE-Lab.github.io/sitemap.xml
+Sitemap: https://CAIRE-Lab.github.io/CAIRE-Lab/sitemap.xml
