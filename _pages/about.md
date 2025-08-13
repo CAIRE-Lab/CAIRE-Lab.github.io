@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. 
 profile:
   align: center
-  image: caire_logo.jpg.jpg
+  image: caire_logo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
    
