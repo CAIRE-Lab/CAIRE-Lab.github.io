@@ -3,6 +3,9 @@ layout: about
 title: Home
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. 
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ '/assets/img/caire_logo.jpg' | relative_url }}" alt="CAIRE Lab Logo" style="max-width: 300px; height: auto;">
+</div>
 profile:
   align: center
   image: caire_logo.jpg
