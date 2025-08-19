@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Unmake the Empire</a>. 
+subtitle:<a href='#'>Unmake the Empire</a>. 
 profile:
   align: right
   image: caire_logo.jpg
