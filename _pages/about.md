@@ -23,4 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The Critical AI Research and Education (CAIRE) Lab is an interdisciplinary space dedicated to examining the historical, geopolitical, material, spatial, and social dimensions of data, information, and technology. We aim to contribute to both established and emerging fields such as critical data, platform, and algorithm studies, critical AI, and justice informatics. Our current members include undergraduates, graduate students, and faculty members with backgrounds in human-computer interaction, comparative literature, sociology, philosophy, library and information science, and beyond.
+The Critical AI Research and Education (CAIRE) Lab is an interdisciplinary space dedicated to examining the historical, geopolitical, material, spatial, and social dimensions of data, information, and technology. 
+We aim to contribute to both established and emerging fields such as critical data, platform, and algorithm studies, critical AI, and justice informatics. Our current members include undergraduates, graduate students, and faculty members
+with backgrounds in human-computer interaction, comparative literature, sociology, philosophy, library and information science, and beyond.
